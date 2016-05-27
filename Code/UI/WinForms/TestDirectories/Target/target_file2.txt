@@ -1,0 +1,5 @@
+System saves (possibly) the invite into google calendar.
+System saves the invite to a table in the data mart.
+System creates an ICS file
+                - attaches it to an email to the sender
+                - attaches the ICS file to an email to target registered users.

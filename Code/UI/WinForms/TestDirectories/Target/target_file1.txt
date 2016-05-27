@@ -1,0 +1,3 @@
+My understanding is that the ultimate goal of this requirement is to track meetings and whether the dashboard has been utilized for decision support during these meetings. If we could cross reference user dashboard usage with user meeting agendas we could understand how or if the Dashboard is being used to make decision or not.
+ 
+Below are the requirements as I understand them, please let me know what’s incorrectly understood or annotate with any detail I’ve left out:
