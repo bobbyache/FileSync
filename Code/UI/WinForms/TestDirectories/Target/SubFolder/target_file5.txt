@@ -1,8 +1,0 @@
-How to locate multiple addresses on google maps with perfect zoom 
-From <http://www.coolcoder.in/2014/03/how-to-locate-multiple-addresses-on.html> 
-
-Generating a Google Map with multiple markers and info windows 
-From <http://chrisltd.com/blog/2013/08/google-map-random-color-pins/> 
-
-Placing multiple markers on a google map:
-http://www.dreamdealer.nl/tutorials/placing_multiple_markers_on_a_google_map.html

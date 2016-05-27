@@ -1,8 +1,0 @@
-CommentsViews.js - Views.CommentView
-App.js - Views.CommentView, AppModule.showCommentPopup
-
-View: modal-view-comment-list-template
-Menu Item Id: menuActionMyComments
-
-Common.js - menuActionMyCommentsClicked
-	Pops up CommentsViews.js

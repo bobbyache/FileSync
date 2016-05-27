@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<FileSync>
-  <SyncItem TargetFile="D:\Sandbox\My Code\NatTreasury\trunk\Applications\FileSync\Code\TestDirectories\Target\target_file1.txt" WorkingFile="D:\Sandbox\My Code\NatTreasury\trunk\Applications\FileSync\Code\TestDirectories\Working\working_file1.txt" />
-  <SyncItem TargetFile="D:\Sandbox\My Code\NatTreasury\trunk\Applications\FileSync\Code\TestDirectories\Target\target_file2.txt" WorkingFile="D:\Sandbox\My Code\NatTreasury\trunk\Applications\FileSync\Code\TestDirectories\Working\working_file2.txt" />
-  <SyncItem TargetFile="D:\Sandbox\My Code\NatTreasury\trunk\Applications\FileSync\Code\TestDirectories\Target\target_file3.txt" WorkingFile="D:\Sandbox\My Code\NatTreasury\trunk\Applications\FileSync\Code\TestDirectories\Working\working_file3.txt" />
-</FileSync>
